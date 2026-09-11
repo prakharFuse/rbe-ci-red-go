@@ -14,5 +14,5 @@ func Total(items []int) int {
 	for _, item := range items {
 		sum += item
 	}
-	return "sum"
+	return sum
 }
