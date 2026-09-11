@@ -23,3 +23,7 @@ The Go module lives in `./service` and the Makefile builds from there, so every
 compiler diagnostic is printed relative to that directory
 (`./internal/cart/cart.go:12:9`) rather than to the repo root. A build layout
 like this is ordinary and is exactly what defeats path-based shortcuts.
+
+## Status
+
+CI-fix journey canary (mtwmi29t-scbx).
